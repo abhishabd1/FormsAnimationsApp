@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{710F8E50-0395-40FC-87E0-FDA7666C2328}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.FormsAnimationsApp.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormsAnimationsApp Status">
+    <Files>
+      <File FileName="FormsAnimationsApp/FormsAnimationsAppPage.xaml" Line="16" Column="1" />
+      <File FileName="FormsAnimationsApp/FormsAnimationsAppPage.xaml.cs" Line="14" Column="13" />
+      <File FileName="FormsAnimationsApp Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FormsAnimationsApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6EC7DF99-EA48-4805-B394-2E364CF438F9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.FormsAnimationsApp.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
